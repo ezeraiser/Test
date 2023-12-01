@@ -1,19 +1,17 @@
-! 2023-04-20 https://www.sozcu.com.tr
+! https://www.sozcu.com.tr
 www.sozcu.com.tr##.ot-sdk-row
 www.sozcu.com.tr##.adl-obj-content
+www.sozcu.com.tr##.adMobileClasses.flex-column.d-flex.pt-2.p-3.mb-4.adInitRemove.ad-mobile-masthead
 
-! 2023-04-20 https://forum.donanimhaber.com
-forum.donanimhaber.com##.cookie-kutu
-
-! 2023-04-20 https://www.sahibinden.com
+! https://www.sahibinden.com
 www.sahibinden.com###onetrust-consent-sdk
-
-! 2023-04-20 https://secure.sahibinden.com
 secure.sahibinden.com##.ot-sdk-container
 
 ! 2023-04-20 https://www.webtekno.com
 www.webtekno.com##.onesignal-slidedown-dialog
 
+! https://forum.donanimhaber.com
+forum.donanimhaber.com##.cookie-kutu
 forum.donanimhaber.com/ads/*
 medya.ilan.gov.tr/widgets*
 platform.twitter.com/widgets*
@@ -26,16 +24,15 @@ cdn.taboola.com/libtrc/*
 c2.taboola.com/nr/*
 bluekai.com/*
 gemius.pl/*
-
-! 2023-04-25 https://forum.donanimhaber.com
 forum.donanimhaber.com###sagSabitReklam
 forum.donanimhaber.com###stickyAdRightSide
 forum.donanimhaber.com##div.sagreklam:nth-of-type(1)
 forum.donanimhaber.com##.sagtaraf
 forum.donanimhaber.com##.takip
-
-! 2023-05-03 https://forum.donanimhaber.com
 forum.donanimhaber.com##.tag-ad
+forum.donanimhaber.com##.canliyayinbar
+forum.donanimhaber.com###primeContainerIndex
+
 
 ! 2023-05-12 https://www.cnet.com
 www.cnet.com##.c-newsletterSticky
@@ -64,10 +61,6 @@ www.tamamlayicisaglik.com###offerScreenReadyModal > .modal-dialog-centered
 www.tamamlayicisaglik.com##.pl-0.show.fade-bottom.fade.modal
 www.tamamlayicisaglik.com##.show.fade.modal-backdrop
 
-! 2023-08-08 https://www.sozcu.com.tr
-www.sozcu.com.tr##.adMobileClasses.flex-column.d-flex.pt-2.p-3.mb-4.adInitRemove.ad-mobile-masthead
-www.sozcu.com.tr##.adMobileClasses.flex-column.d-flex.pt-2.p-3.mb-4.adInitRemove.ad-mobile-masthead
-
 ! 2023-08-10 https://www.howtogeek.com
 www.howtogeek.com##.fEy1Z2XT
 
@@ -89,9 +82,6 @@ youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 ! 2023-09-06 https://www.youtube.com
 ||i.ytimg.com/an/*
 
-! 2023-09-13 https://forum.donanimhaber.com
-forum.donanimhaber.com##.canliyayinbar
-
 ! 2023-10-13 https://www.sozcu.com.tr
 www.sozcu.com.tr##.mt-4.membranaVideoDiv
 
@@ -100,9 +90,6 @@ www.sozcu.com.tr##.mt-4.membranaVideoDiv
 
 ! 2023-11-10 https://www.n11.com
 ||n11scdn.akamaized.net/a1/org/23/11/09/91/16/89/84/07/97/99/12/86/85263449184907511941.jpeg$image
-
-! 2023-11-14 https://forum.donanimhaber.com
-forum.donanimhaber.com###primeContainerIndex
 
 ! 2023-11-28 https://www.apkdelisi.net
 www.apkdelisi.net##.mdpDeblocker-wrapper
