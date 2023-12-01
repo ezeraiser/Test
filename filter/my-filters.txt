@@ -1,0 +1,110 @@
+! 2023-04-20 https://www.sozcu.com.tr
+www.sozcu.com.tr##.ot-sdk-row
+www.sozcu.com.tr##.adl-obj-content
+
+! 2023-04-20 https://forum.donanimhaber.com
+forum.donanimhaber.com##.cookie-kutu
+
+! 2023-04-20 https://www.sahibinden.com
+www.sahibinden.com###onetrust-consent-sdk
+
+! 2023-04-20 https://secure.sahibinden.com
+secure.sahibinden.com##.ot-sdk-container
+
+! 2023-04-20 https://www.webtekno.com
+www.webtekno.com##.onesignal-slidedown-dialog
+
+forum.donanimhaber.com/ads/*
+medya.ilan.gov.tr/widgets*
+platform.twitter.com/widgets*
+connect.facebook.net/tr_TR/all.js
+platform.instagram.com/tr_TR/embeds.js
+cdn.eksiup.com/api/special/rupdonanimhaber.js
+apis.google.com/js/platform.js
+cookie-cdn.cookiepro.com/consent/*
+cdn.taboola.com/libtrc/*
+c2.taboola.com/nr/*
+bluekai.com/*
+gemius.pl/*
+
+! 2023-04-25 https://forum.donanimhaber.com
+forum.donanimhaber.com###sagSabitReklam
+forum.donanimhaber.com###stickyAdRightSide
+forum.donanimhaber.com##div.sagreklam:nth-of-type(1)
+forum.donanimhaber.com##.sagtaraf
+forum.donanimhaber.com##.takip
+
+! 2023-05-03 https://forum.donanimhaber.com
+forum.donanimhaber.com##.tag-ad
+
+! 2023-05-12 https://www.cnet.com
+www.cnet.com##.c-newsletterSticky
+
+! 2023-05-12 https://outlook.live.com
+outlook.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com##.LBktY > .GssDD
+outlook.live.com##.fz7QX.aJ4OG.Qhdyf
+
+! 2023-05-15 https://eksisozluk1923.com
+eksisozluk1923.com##.under-top-ad
+
+! 2023-05-29 https://www.chip.com.tr
+www.chip.com.tr##.top-60-r.sticky-masthead.masthead.desktop-ad.adpro
+www.chip.com.tr##div.fixed-in-content.mb-4.desktop-ad.adpro
+
+! 2023-06-26 https://tr.investing.com
+tr.investing.com##.ad-blocker-popup
+tr.investing.com##.js-general-overlay.secondaryOverlay
+
+! 2023-07-20 https://outlook.live.com
+outlook.live.com##.YmHO2.ypzld.L18y8.yedzL.DVTER._Bfyd.kk1xx
+
+! 2023-07-26 https://www.tamamlayicisaglik.com
+www.tamamlayicisaglik.com###offerScreenReadyModal > .modal-dialog-centered
+www.tamamlayicisaglik.com##.pl-0.show.fade-bottom.fade.modal
+www.tamamlayicisaglik.com##.show.fade.modal-backdrop
+
+! 2023-08-08 https://www.sozcu.com.tr
+www.sozcu.com.tr##.adMobileClasses.flex-column.d-flex.pt-2.p-3.mb-4.adInitRemove.ad-mobile-masthead
+www.sozcu.com.tr##.adMobileClasses.flex-column.d-flex.pt-2.p-3.mb-4.adInitRemove.ad-mobile-masthead
+
+! 2023-08-10 https://www.howtogeek.com
+www.howtogeek.com##.fEy1Z2XT
+
+! 2023-08-28 https://twitter.com
+twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+
+
+
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001) 
+youtube.com##+js(nano-stb, resolve(1), *, 0.001) 
+
+! 2023-09-06 https://www.youtube.com
+||i.ytimg.com/an/*
+
+! 2023-09-13 https://forum.donanimhaber.com
+forum.donanimhaber.com##.canliyayinbar
+
+! 2023-10-13 https://www.sozcu.com.tr
+www.sozcu.com.tr##.mt-4.membranaVideoDiv
+
+! 2023-11-09 https://www.n11.com
+||n11scdn.akamaized.net/a1/org/23/11/08/59/89/75/48/35/53/28/20/18/34819824657421061190.jpg$image
+
+! 2023-11-10 https://www.n11.com
+||n11scdn.akamaized.net/a1/org/23/11/09/91/16/89/84/07/97/99/12/86/85263449184907511941.jpeg$image
+
+! 2023-11-14 https://forum.donanimhaber.com
+forum.donanimhaber.com###primeContainerIndex
+
+! 2023-11-28 https://www.apkdelisi.net
+www.apkdelisi.net##.mdpDeblocker-wrapper
+www.apkdelisi.net##.active.mdpDeblocker-blackout
+
